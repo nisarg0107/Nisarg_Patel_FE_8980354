@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "blank-icon-or-button-of-the-app-for-web-and-mobile-systems-template-application-sign-with-guidelines-stock-illustration-vector.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
